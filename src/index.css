@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.imagenProducto{
+  max-width: 50%;
+  height: auto;
+
+}
+.imagenSugerenciaProducto{
+  max-width: 20%;
+  height: auto;
+}
+.fa-star{
+  color: #e74c25;
+}
+.botonNaranjo{
+  background-color: #e74c25;
+  border-color: #e74c25;
+  border-radius: 0;
+}
